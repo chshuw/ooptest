@@ -23,7 +23,7 @@ package com.wang.day8;
 public class PersonTest {
     public static void main(String[] arge) {
         //2.创建类的对象p1(创建Person类的对象)
-        //左边的Person是一个变量数据类型，p1是变量名，new Person()是变量值
+        //左边的Person是一个变量数据类型(Persons数据类型)，p1是变量名，new Person()是变量值
         Person p1 = new Person();
 
         //3.调用对象的结构：属性、方法
