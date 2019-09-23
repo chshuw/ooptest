@@ -1,6 +1,4 @@
-package com.wang.test;
-
-import com.wang.AgeUtils;
+package com.wang.age;
 
 public class AgeTest {
     public static void main(String[] args){
