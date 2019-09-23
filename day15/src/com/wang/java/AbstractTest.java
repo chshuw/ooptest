@@ -39,7 +39,7 @@ abstract class Person{
     }
 
     //抽象方法
-    public abstract void eat();
+    public abstract void eat();   //方法确定的时候(异变的部分 )
 
 //    public void eat(){
 //        System.out.println("人吃饭");
